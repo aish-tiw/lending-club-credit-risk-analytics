@@ -212,7 +212,3 @@ lending-club-credit-risk-analytics/
 - The model does not include all information that would be available in a real underwriting process.
 - Model performance should be monitored over time before any operational use.
 - Fair-lending, explainability and regulatory checks would be required before using a credit-risk model in practice.
-
-## Author
-
-**Aishwarya Srivastava**
