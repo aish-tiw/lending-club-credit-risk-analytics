@@ -1,0 +1,32 @@
+# Original and processed datasets
+data/
+*.csv
+*.parquet
+*.xlsx
+
+# Tableau extracts
+*.hyper
+*.tde
+
+# Databricks and Spark files
+.databricks/
+.sparkStaging/
+metastore_db/
+derby.log
+
+# Python files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
